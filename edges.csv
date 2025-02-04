@@ -1,0 +1,8 @@
+Source,Target,Type,Id,Label,Weight
+288,289,Undirected,0,ORG-24.7.3.4,1
+289,290,Undirected,1,ORG-24.7.3.5,1
+290,291,Undirected,2,ORG-24.7.3.6,1
+291,292,Undirected,3,ORG-24.7.3.7,1
+292,293,Undirected,4,ORG-24.7.3.8,1
+293,294,Undirected,5,ORG-24.7.3.9,1
+294,295,Undirected,6,ORG-24.7.3.10,1
